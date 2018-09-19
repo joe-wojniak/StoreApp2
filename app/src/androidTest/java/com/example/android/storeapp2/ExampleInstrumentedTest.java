@@ -1,4 +1,4 @@
-package com.example.android.storeapp1;
+package com.example.android.storeapp2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
